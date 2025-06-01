@@ -1,4 +1,4 @@
-// Assumed Dataset Myslef
+// Assumed Dataset Myself
 #include <iostream>
 #include <string>
 
